@@ -2,6 +2,11 @@
 
 # JavaScript30
 
+Finished:
+01 - JavaScript Drum Kit
+04 - Array Cardio Day 1
+07 - Array Cardio Day 2
+
 Starter Files + Completed solutions for the JavaScript 30 Day Challenge.
 
 Grab the course at [https://JavaScript30.com](https://JavaScript30.com)
